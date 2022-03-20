@@ -16,6 +16,8 @@ recipe:
     1. Sir ingredients together in small cup.
     2. Cover with ice, and serve fresh!
 ---
+
+![Cookie](https://drive.google.com/file/d/1qrPIV7HtI7njYl109I-JSt_23JoyThr4/view?usp=sharing)
+
 Super delicious and easy in the mornings, especially when in a rush!
 
-![Cookie](https://drive.google.com/file/d/1-89McBYg3nBzNcnvI5OEvPSylJ8afgTF/view?usp=sharing)
