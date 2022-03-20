@@ -5,9 +5,9 @@ categories:
   - Cookies
 featured_image: https://drive.google.com/file/d/1-89McBYg3nBzNcnvI5OEvPSylJ8afgTF/view?usp=sharing
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 1 cup of coffee
+  prep: 0 minutes
+  cook: 2 minutes
   ingredients_markdown: |-
     * 3/4 cup concentrated cold brew
     * 2 cups oat milk
