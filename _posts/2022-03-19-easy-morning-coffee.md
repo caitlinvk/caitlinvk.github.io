@@ -3,7 +3,7 @@ date: 2022-03-19
 title: Easy Morning Coffee
 categories:
   - Cookies
-featured_image: https://drive.google.com/file/d/1-89McBYg3nBzNcnvI5OEvPSylJ8afgTF/view?usp=sharing
+featured_image: https://user-images.githubusercontent.com/101950683/159174808-dd591240-6b93-4063-9d14-be558fbf1713.jpg
 recipe:
   servings: 1 cup of coffee
   prep: 0 minutes
@@ -18,4 +18,5 @@ recipe:
 ---
 
 ![Coffee](../images/iced_coffee1.jpg)
+
 Super delicious and easy in the mornings, especially when in a rush!
