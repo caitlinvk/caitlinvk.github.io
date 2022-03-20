@@ -19,6 +19,6 @@ recipe:
 
 Super excited!
 
-![Coffee](https://user-images.githubusercontent.com/101950683/159175106-b07d98ea-c26c-492a-929c-ed804a81ac77.jpg)
+![Coffee](https://drive.google.com/uc?export=view&id=1-89McBYg3nBzNcnvI5OEvPSylJ8afgTF)
 
 Super delicious and easy in the mornings, especially when in a rush!
