@@ -17,6 +17,6 @@ recipe:
     2. Cover with ice, and serve fresh!
 ---
 
-![Coffee] https://user-images.githubusercontent.com/101950683/159175106-b07d98ea-c26c-492a-929c-ed804a81ac77.jpg
+![Coffee] (https://user-images.githubusercontent.com/101950683/159175106-b07d98ea-c26c-492a-929c-ed804a81ac77.jpg)
 
 Super delicious and easy in the mornings, especially when in a rush!
