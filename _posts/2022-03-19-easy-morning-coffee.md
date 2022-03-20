@@ -17,7 +17,5 @@ recipe:
     2. Cover with ice, and serve fresh!
 ---
 
-![Cookie](https://drive.google.com/file/d/1qrPIV7HtI7njYl109I-JSt_23JoyThr4/view?usp=sharing)
-
+![Coffee](../images/iced_coffee1.jpg)
 Super delicious and easy in the mornings, especially when in a rush!
-
