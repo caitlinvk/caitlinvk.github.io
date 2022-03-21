@@ -2,7 +2,7 @@
 date: 2022-03-19
 title: Easy Morning Coffee
 categories:
-  - Cookies
+  - Drinks
 featured_image: https://user-images.githubusercontent.com/101950683/159174808-dd591240-6b93-4063-9d14-be558fbf1713.jpg
 recipe:
   servings: 1 cup of coffee
