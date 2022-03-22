@@ -2,7 +2,7 @@
 date: 2022-03-22
 title: Avocado Toast
 categories:
-  - Cakes
+  - Savory
 featured_image: https://drive.google.com/uc?export=view&id=1ehNbX1ENJNz5_LoqR82R1UtIWMXUcCdT
 recipe:
   servings: 2 toasts
