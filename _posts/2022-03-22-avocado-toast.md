@@ -19,6 +19,7 @@ recipe:
     2. Mash avocado, and spread half on each piece of toast.
     3. Place sliced tomatoes on top on avocado spread.
     4. Sprinkle with feta, and drizzle balsamic dressing.
+---
 
 ![Toast](https://drive.google.com/uc?export=view&id=1QpqmXs0iQS-5N1pWaVXFxgmAd3OUQP8M)
 
