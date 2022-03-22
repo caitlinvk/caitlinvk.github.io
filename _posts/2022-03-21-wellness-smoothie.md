@@ -20,14 +20,7 @@ recipe:
     1. Blend all ingredients on HIGH for 1 minute intervals for three minutes.
     2. Once thoroughly blended, pour into cups and serve fresh, with an option for fresh lemon on top.
 ---
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
 
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
-
-Straight out of the oven.
-
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
-
-You can add extra flavour with berries.
+So great in the winter time when you need more vegetables! The spinach addition is one of my favorites -- such an easy addition and you don't even taste it!
 
 ![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
