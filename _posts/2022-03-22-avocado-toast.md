@@ -21,6 +21,8 @@ recipe:
     4. Sprinkle with feta, and drizzle balsamic dressing.
 ---
 
+Hope everyone enjoys this toast as much as I do !! :)
+
 ![Toast](https://drive.google.com/uc?export=view&id=1QpqmXs0iQS-5N1pWaVXFxgmAd3OUQP8M)
 
 So simple and yummy! I eat this most mornings before school, and it makes a great start to my morning!
