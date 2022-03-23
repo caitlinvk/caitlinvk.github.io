@@ -21,7 +21,7 @@ recipe:
     5. Serve cold with ice.
 ---
 
-This is a yummy, healthy alternative if you are trying to cut back on caffeine. Matcha has many health benefits: boost in brain function, promotes heart health, and is high in antioxidants.
+This is a great alternative if you are trying to cut back on caffeine! Matcha has many health benefits: boosts in brain function, promotes heart health, and is high in antioxidants.
 
 ![Drinks](https://source.unsplash.com/1HPTYLozDGw)
 
