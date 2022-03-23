@@ -19,8 +19,8 @@ recipe:
     1. Place matcha powder at bottom of small bowl, and add maple syrup.
     2. Mix until combined.
     3. Add warm/hot water, and stir until smooth.
-    4. Pour mixture into bottom of cup.
-    5. Add milk, and stir to combine.
+    4. Add milk to cup and pour mixture in.
+    5. Stir to combine.
     6. Serve cold with ice.
     7. Sprinkle cinnamon on top.
 ---
