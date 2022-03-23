@@ -10,7 +10,7 @@ recipe:
   ingredients_markdown: |-
     * 1 tbsp Trader Joes Matcha Powder
     * 1 tbsp maple syrup
-    * 1 tsp vanilla
+    * dash of vanilla
     * 1 tbsp warm/hot water
     * 2.5 cups of oat milk (or milk of choice)
     * ice to serve
