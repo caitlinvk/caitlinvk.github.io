@@ -3,7 +3,7 @@ date: 2022-03-19
 title: Easy Morning Coffee
 categories:
   - Drinks
-featured_image: https://drive.google.com/uc?export=view&id=1wHdgpzE-vn2EEj6SnwF0se7ty0OQVwoi
+featured_image: https://drive.google.com/uc?export=view&id=1Y4e7-pE8QO1INXKja-xMwEo3q0VuD3x7
 recipe:
   servings: 1 cup of coffee
   prep: 5 minutes
@@ -19,6 +19,5 @@ recipe:
 
 My favorite part of the morning!!
 
-![Coffee](https://drive.google.com/uc?export=view&id=1-89McBYg3nBzNcnvI5OEvPSylJ8afgTF)
-
+![Coffee](https://drive.google.com/uc?export=view&id=1Y4e7-pE8QO1INXKja-xMwEo3q0VuD3x7)
 Super delicious and easy in the mornings, especially when in a rush!
