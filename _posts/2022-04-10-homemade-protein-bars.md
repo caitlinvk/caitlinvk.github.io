@@ -26,6 +26,6 @@ recipe:
 ---
 Such a great pre/post workout snack or a sweet treat!
 
-![Cake](https://drive.google.com/uc?export=view&id=1ErDyroaYSEMyDXOjrV9pEcnFm5J4-lzM)
+![Protein Bars](https://drive.google.com/uc?export=view&id=1ErDyroaYSEMyDXOjrV9pEcnFm5J4-lzM)
 
 So fast & easy!
