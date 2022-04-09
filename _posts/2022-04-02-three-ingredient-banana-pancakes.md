@@ -1,6 +1,6 @@
 ---
 date: 2017-01-07
-title: 3 Ingredient Banana Chocolate Chip Pancakes
+title: 3 Ingredient Banana Pancakes
 categories:
   - Sweet
 featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
