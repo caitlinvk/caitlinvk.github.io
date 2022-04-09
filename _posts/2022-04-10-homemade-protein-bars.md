@@ -24,8 +24,7 @@ recipe:
     3. In an 8x8 baking dish, evenly press mixture until flat. Melt chocolate in microwave and spread an even layer on top.
     4. Let set in freezer for 30 minutes, then cut into 12 equal square bars. Store in fridge.
 ---
-Such a great pre/post workout snack or a sweet treat!
 
 ![Bars](https://drive.google.com/uc?export=view&id=1ErDyroaYSEMyDXOjrV9pEcnFm5J4-lzM)
 
-So fast & easy!
+Great pre/post workout snack or a sweet treat!
