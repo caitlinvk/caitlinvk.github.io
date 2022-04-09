@@ -3,7 +3,7 @@ date: 2017-01-07
 title: 3 Ingredient Banana Pancakes
 categories:
   - Sweet
-featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
+featured_image: https://drive.google.com/uc?export=view&id=1v3eGsRuk9rlI7HCiDqjzt7VUbjF90pDj
 recipe:
   servings: 2 pancakes
   prep: 5 minutes
@@ -27,13 +27,7 @@ recipe:
 ---
 These banana chocolate chips pancakes are so yummy and super easy to make. You can also add some maple syrup, but the bananas and chocolate chips already add sweetness!
 
-![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
+![Pancakes](https://drive.google.com/uc?export=view&id=1tl0PS6lvLip3v_o0R3TJMwqz6_LfJ9rB)
 
 Such a quick and easy breakfast!
-
-![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&h=940&fit=crop)
 Perfect if you are wanting somethings sweet and a much healthier alternative to regular pancakes!
-
-![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&h=940&fit=crop)
-
-:)
