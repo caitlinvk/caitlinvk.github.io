@@ -3,7 +3,6 @@ date: 2017-01-07
 title: 3 Ingredient Banana Chocolate Chip Pancakes
 categories:
   - Sweet
-  - Savory
 featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
 recipe:
   servings: 2 pancakes
