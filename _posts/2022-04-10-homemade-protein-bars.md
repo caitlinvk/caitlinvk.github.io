@@ -3,7 +3,7 @@ date: 2017-01-06
 title: Homemade Protein Bars
 categories:
   - Sweet
-featured_image: https://drive.google.com/uc?export=view&id=19fp5Cg5KsqT8vdbIJTArjoTpS9yt-Tms
+featured_image: https://drive.google.com/uc?export=view&id=1vnyfFzJNFqHalNyiYFW3TMQ8wrN546xY
 recipe:
   servings: 15 square bars
   prep: 15 minutes
