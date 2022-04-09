@@ -19,5 +19,5 @@ recipe:
 
 My favorite part of the morning!!
 
-![Coffee](https://drive.google.com/uc?export=view&id=1Y4e7-pE8QO1INXKja-xMwEo3q0VuD3x7)
+![Coffee](https://drive.google.com/uc?export=view&id=1M1O61pc5g51rdA_qLSvSAxsnpNPGUqU0)
 Super delicious and easy in the mornings, especially when in a rush!
