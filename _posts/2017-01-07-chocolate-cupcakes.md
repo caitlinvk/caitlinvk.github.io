@@ -1,6 +1,6 @@
 ---
 date: 2017-01-07
-title: 5 Ingredient Banana Chocolate Chip Pancakes
+title: 3 Ingredient Banana Chocolate Chip Pancakes
 categories:
   - Sweet
   - Savory
@@ -21,7 +21,7 @@ recipe:
   directions_markdown: |-
 
     1. Mash banana in a small bowl. Add all ingredients except for chocolate chips.
-    2. Spray a pan.
+    2. Spray pan.
     3. Pour pancake batter into two medium-sized pancakes and add chocolate chips.
     4. Cook about 2-3 minutes per side.
     
