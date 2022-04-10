@@ -1,5 +1,5 @@
 ---
-date: 2017-01-07
+date: 2022-04-03
 title: 3 Ingredient Banana Pancakes
 categories:
   - Sweet
