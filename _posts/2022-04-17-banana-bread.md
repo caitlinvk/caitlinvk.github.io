@@ -30,6 +30,6 @@ recipe:
 
 Best banana bread ever !! :)
 
-![Banana Bread](https://drive.google.com/uc?export=view&id=1_WRSNBBZsu3HwXuC8scODGYCTVDp8foS)
+![Banana Bread](https://drive.google.com/uc?export=view&id=12dem49dRVKZ-anSHlm06lDwVQcwWxDfh)
 
 One of my favorite snacks and on-the-go breakfasts! Pairs great with coffee!!
