@@ -3,7 +3,7 @@ date: 2022-03-19
 title: Easy Morning Coffee
 categories:
   - Drinks
-featured_image: https://drive.google.com/uc?export=view&id=1NCYIzYJGKrJ4OcvZr7TdtWp7M0V--K8S
+featured_image: https://drive.google.com/uc?export=view&id=1dZ0aYPLA0NyP2iImrYYvR6h-0pJQB6gE
 recipe:
   servings: 1 cup of coffee
   prep: 5 minutes
