@@ -3,7 +3,7 @@ date: 2022-04-10
 title: Homemade Protein Bars
 categories:
   - Sweet
-featured_image: https://drive.google.com/uc?export=view&id=1_oD5wqJN6rynDYWtYnLU3wrl-9tLYvsQ
+featured_image: https://drive.google.com/uc?export=view&id=1L9PtiU8OqF6fx3flhm1WNKZ1N2DGf40h
 recipe:
   servings: 15 square bars
   prep: 15 minutes
@@ -25,6 +25,6 @@ recipe:
     4. Let set in freezer for 30 minutes, then cut into 12 equal square bars. Store in fridge.
 ---
 
-![Bars](https://drive.google.com/uc?export=view&id=1ddpHeTPknRe4-y_e00sakEqS-0m_v8k1)
+![Bars](https://drive.google.com/uc?export=view&id=1LU-9hd-PVKLFCQ2BXCRo7WdiAPmM2q4x)
 
 Great pre/post workout snack or a sweet treat!
