@@ -3,7 +3,7 @@ date: 2022-03-13
 title: Matcha Latte
 categories:
   - Drinks
-featured_image: https://drive.google.com/uc?export=view&id=1y-asgasuhfCV9_exjsmA815xY0Djf8Wv
+featured_image: https://drive.google.com/uc?export=view&id=1KZuW96Pwj6KnKfqhUXI0_aZybWKqap3w
 recipe:
   servings: 1 serving
   prep: 5 minutes
