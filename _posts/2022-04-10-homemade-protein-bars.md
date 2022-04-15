@@ -25,6 +25,6 @@ recipe:
     4. Let set in freezer for 30 minutes, then cut into 12 equal square bars. Store in fridge.
 ---
 
-![Bars](https://drive.google.com/uc?export=view&id=1ErDyroaYSEMyDXOjrV9pEcnFm5J4-lzM)
+![Bars](https://drive.google.com/uc?export=view&id=1ddpHeTPknRe4-y_e00sakEqS-0m_v8k1)
 
 Great pre/post workout snack or a sweet treat!
