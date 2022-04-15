@@ -25,7 +25,7 @@ recipe:
     2. Add bananas to a large mixing bowl and mash. Add eggs, maple syrup, coconut oil, and vanilla. Whisk to combine.
     3. Stir in the almond flour, cinnamon, baking soda, baking powder, and salt just until fully combined. Add chocolate chips.
     4. Transfer mixture into prepared load pan and bake for 60 minutes or until a toothpick center comes out clean.
-    5. Remove from oven and cool for 10 minutes then transfer to a cooling rack and allow to completely cool before slicing.
+    5. Remove from oven and cool for 10 minutes, then transfer to a cooling rack, allow to completely cool before slicing.
 ---
 
 Best banana bread ever !! :)
