@@ -27,7 +27,7 @@ recipe:
 ---
 These banana chocolate chips pancakes are so yummy and super easy to make. You can also add some maple syrup, but the bananas and chocolate chips already add sweetness!
 
-![Pancakes](https://drive.google.com/uc?export=view&id=1tl0PS6lvLip3v_o0R3TJMwqz6_LfJ9rB)
+![Pancakes](https://drive.google.com/uc?export=view&id=1jVAFBMMC3MEZRREPrPKPUzw2n4klJFA6)
 
 Such a quick and easy breakfast!
 Perfect if you are wanting somethings sweet and a much healthier alternative to regular pancakes!
