@@ -22,7 +22,7 @@ recipe:
     4. Keep cold until serving
 ---
 
-These energy bites are the perfect sweet treat for on the go!
+These energy bites are the perfect sweet treat and great for on the go!
 
 ![Sweet](https://drive.google.com/uc?export=view&id=1ACOoc4sskuHfui61NhPoFnyx0rDO0sPw)
 
