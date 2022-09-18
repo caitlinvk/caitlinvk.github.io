@@ -5,7 +5,7 @@ categories:
   - Savory
 featured_image:https://drive.google.com/uc?export=view&id=10qgDJC_tHvuLSWIDqSuHe7T_qZzmbPJK
 recipe:
-  servings: 1 serving
+  servings: 4 servings
   prep: 5 minutes
   ingredients_markdown: |-
     * 2 15 oz cans chickpeas, drained and rinsed
