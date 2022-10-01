@@ -34,4 +34,4 @@ Such a perfect fall treat !
 
 ![Sweet](https://drive.google.com/uc?export=view&id=1ZgVKjS20yay9WCfsMkasbwc9MakLVQzX)
 
-HAPPY OCTOBER!!!
+Happy October!!!
