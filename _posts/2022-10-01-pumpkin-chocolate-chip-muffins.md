@@ -1,6 +1,6 @@
 ---
 date: 2022-10-01
-title: Pumpkin Chocolate Chip Clusters
+title: Pumpkin Chocolate Chip Muffins
 categories:
   - Sweet
 featured_image:https://drive.google.com/uc?export=view&id=1KZuW96Pwj6KnKfqhUXI0_aZybWKqap3w
