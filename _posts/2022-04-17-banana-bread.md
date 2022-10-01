@@ -3,7 +3,7 @@ date: 2022-04-17
 title: Banana Bread
 categories:
   - Sweet
-featured_image: https://drive.google.com/uc?export=view&id=1FafADOojzn9GJSUK9Em25mYT69DVJuWj
+featured_image: https://drive.google.com/uc?export=view&id=1kqTLnZTiYH_M7ueRMZ85WGMCm2ufdIRO
 recipe:
   servings: 1 loaf
   prep: 15 mins
