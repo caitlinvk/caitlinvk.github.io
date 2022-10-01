@@ -6,7 +6,8 @@ categories:
 featured_image: https://drive.google.com/uc?export=view&id=1-EUFY6FCh1WZIFqjyfO5yJkzsTPOq1Fd
 recipe:
   servings: 12 muffins
-  prep: 15 minutes
+  prep: 10 minutes
+  cook: 22 minutes
   ingredients_markdown: |-
     * 1 cup pumpkin puree
     * 1/2 cup maple syrup
