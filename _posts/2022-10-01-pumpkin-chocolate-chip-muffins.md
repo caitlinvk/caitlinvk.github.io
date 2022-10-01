@@ -22,7 +22,7 @@ recipe:
     * 1 tsp cinnamon
     * 1/2 cup dark chocolate chips
   directions_markdown: |-
-    1. Preheat oven to 350 degrees. Grease muffin tin (can do 12 regular muffins or 24 mini ones!)
+    1. Preheat oven to 350 degrees. Grease muffin tin (can do 12 regular muffins or 24 mini ones!).
     2. Combine all wet ingredients (pumpkin puree, maple syrup, eggs, almond butter, oat milk, vanilla) in a large mixing bowl.
     3. Add in all dry ingredients except chocolate chips (oats, baking powder, baking soda, salt, cinnamon).
     4. Stir in chocolate chips.
