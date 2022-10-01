@@ -3,7 +3,7 @@ date: 2022-10-01
 title: Pumpkin Chocolate Chip Muffins
 categories:
   - Sweet
-featured_image: https://drive.google.com/uc?export=view&id=1-EUFY6FCh1WZIFqjyfO5yJkzsTPOq1Fd
+featured_image: https://drive.google.com/uc?export=view&id=1RZi34B96Jkd95SULD0rDwQYjy1wqbyOi
 recipe:
   servings: 12 muffins
   prep: 10 minutes
