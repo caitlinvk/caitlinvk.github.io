@@ -5,7 +5,7 @@ categories:
   - Savory
 featured_image: https://drive.google.com/uc?export=view&id=1ehNbX1ENJNz5_LoqR82R1UtIWMXUcCdT
 recipe:
-  servings: 2 toasts
+  servings: 2 pieces of toast
   prep: 4 mins
   cook: 2 minutes
   ingredients_markdown: |-
