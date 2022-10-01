@@ -7,6 +7,7 @@ featured_image: https://drive.google.com/uc?export=view&id=11lw_NUmAEd8tw2wD3knh
 recipe:
   servings: 4 servings
   prep: 5 minutes
+  cook: 25 minutes
   ingredients_markdown: |-
     * 2 15 oz cans chickpeas, drained and rinsed
     * 2 tbsp extra-virgin olive oil
