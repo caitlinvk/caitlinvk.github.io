@@ -3,7 +3,7 @@ date: 2022-08-28
 title: Roasted Chickpeas
 categories:
   - Savory
-featured_image: https://drive.google.com/uc?export=view&id=11lw_NUmAEd8tw2wD3knh_o2iXrA-gAmT
+featured_image: https://drive.google.com/uc?export=view&id=1xjyCw49XB90E0mJmlkNwpqBU8zKAzzbJ
 recipe:
   servings: 4 servings
   prep: 5 minutes
