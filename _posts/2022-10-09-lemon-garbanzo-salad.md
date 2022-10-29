@@ -3,7 +3,7 @@ date: 2022-10-09
 title: Lemon Garbanzo Salad with Feta
 categories:
   - Savory
-featured_image: https://drive.google.com/uc?export=view&id=1mK3VquyfQOXxvFqo7RnJbd9sSLiSMJfa
+featured_image: https://drive.google.com/uc?export=view&id=1IV9o4WWkKm6jYs3veS1tEzHJiIwYHDPr
 recipe:
   servings: 4 servings
   prep: 15 minutes
