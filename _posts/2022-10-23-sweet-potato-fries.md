@@ -6,7 +6,8 @@ categories:
 featured_image: https://drive.google.com/uc?export=view&id=1gvCJgxPzb_-ziiPJKTV0HeTXobzdTeVG
 recipe:
   servings: 4 servings
-  prep: 25 minutes
+  prep: 10 minutes
+  cook: 15 minutes
   ingredients_markdown: |-
     * 2 sweet potatoes
     * 1 tbsp avocado oil
