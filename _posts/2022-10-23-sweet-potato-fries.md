@@ -3,7 +3,7 @@ date: 2022-10-23
 title: Sweet Potato Fries
 categories:
   - Savory
-featured_image: https://drive.google.com/uc?export=view&id=1gvCJgxPzb_-ziiPJKTV0HeTXobzdTeVG
+featured_image: https://drive.google.com/uc?export=view&id=1fWJ7hbJ7qZxYEitoNHBYKNIGlIAcdBys
 recipe:
   servings: 4 servings
   prep: 10 minutes
