@@ -25,6 +25,6 @@ recipe:
 
 SO YUMMY
 
-![Drinks](https://drive.google.com/uc?export=view&id=1BwfgxI1hhhvx2DQJugFks3cqpfuP5vYT
+![Savory](https://drive.google.com/uc?export=view&id=1BwfgxI1hhhvx2DQJugFks3cqpfuP5vYT
 
 :)
