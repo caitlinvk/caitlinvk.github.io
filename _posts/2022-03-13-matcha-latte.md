@@ -24,7 +24,7 @@ recipe:
     6. Sprinkle cinnamon on top.
 ---
 
-This is a great alternative if you are trying to cut back on caffeine! Matcha has many health benefits: boosts brain function, promotes heart health, and is high in antioxidants.
+This is a great alternative if you are trying to cut back on caffeine!
 
 ![Drinks](https://drive.google.com/uc?export=view&id=1wQtSNXabJ2oHsdulxk6IVYfoR58Yh7ZL)
 
