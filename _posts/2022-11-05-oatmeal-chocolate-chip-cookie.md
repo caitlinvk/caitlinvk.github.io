@@ -3,7 +3,7 @@ date: 2022-11-05
 title: Oatmeal Chocolate Chip Cookie
 categories:
   - Sweet
-featured_image: https://drive.google.com/uc?export=view&id=1FTjOvZtRPuZAnzR_C3KRBLRGep1deHa1
+featured_image: https://drive.google.com/uc?export=view&id=1OLkl76pU18qz9faouakbvfNtAwzw4QPj
 recipe:
   servings: 1 serving
   prep: 5 minutes
