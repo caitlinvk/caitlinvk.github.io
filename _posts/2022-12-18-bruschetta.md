@@ -3,7 +3,7 @@ date: 2022-12-18
 title: Bruschetta
 categories:
   - Savory
-featured_image: https://drive.google.com/uc?export=view&id=1nR7HZr266pZmcXzj_ZGyvZzkEhDj-0bO
+featured_image: https://drive.google.com/uc?export=view&id=17Z-tU0KquTd9uo5ZDNNCMBRxSPrpsgAv
 recipe:
   servings: 5 servings
   prep: 10 minutes
