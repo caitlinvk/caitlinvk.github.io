@@ -12,14 +12,14 @@ recipe:
     * 3 cloves garlic
     * 2 tbsp olive oil
     * 2 tbsp balsamic
-    * pinch of salt/pepper
+    * pinch of salt & pepper
     * chopped basil
     * toasted bread
   directions_markdown: |-
     1. Dice tomatoes and mince garlic.
-    2. Mix together and add balsamic and olive oil
-    3. Stir in chopped basil.
-    6. Serve on top of toasted bread.
+    2. Mix together and add balsamic and olive oil.
+    3. Add salt and pepper to taste
+    6. Serve with toasted bread and top with chopped basil.
 ---
 
 Y U M !
