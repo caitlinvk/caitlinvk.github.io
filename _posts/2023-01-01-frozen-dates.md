@@ -2,7 +2,7 @@
 date: 2023-01-01
 title: Frozen Dates
 categories:
-  - Sweets
+  - Sweet
 featured_image: https://drive.google.com/uc?export=view&id=11ymFYFlqmMNTtESg5VMNtvgALoAP_FGF
 recipe:
   servings: 5 servings
